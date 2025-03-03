@@ -16,8 +16,8 @@ This is a simple HTTP server implemented in Rust. It handles basic HTTP requests
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/zxasc/rust-server rust-server 
+   cd rust-server
    ```
    
 2. **Run the server**:
